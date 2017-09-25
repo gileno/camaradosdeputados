@@ -1,0 +1,4 @@
+fulano,fulano@gmail.com
+sicrano,sicrano@gmail.com
+teste,teste@gmail.com
+contato,contato@gmail.com
