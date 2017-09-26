@@ -16,7 +16,7 @@
   - Dicionários
  - Funções
  - Arquivos
- - Orientação a Objetos
+ - Decorators
  
  - Anaconda
  - Miniconda
