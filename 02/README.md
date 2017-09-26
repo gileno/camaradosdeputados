@@ -5,4 +5,3 @@
 - Web Scraping
   - Requests
   - Beautiful Soup
-- Pandas
