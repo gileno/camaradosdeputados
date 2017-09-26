@@ -5,5 +5,4 @@
 - Web Scraping
   - Requests
   - Beautiful Soup
-  - Scrapy
 - Pandas
